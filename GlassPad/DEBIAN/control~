@@ -1,0 +1,9 @@
+Package: com.themepad.glasspad
+Name: GlassPad
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Glassy Aqua-ish theme for Retina iPads.
+Homepage: http://themepad.5gbfree.com/
+Maintainer: Bazil Cosner
+Author: Bazil Cosner
+Section: Themes
